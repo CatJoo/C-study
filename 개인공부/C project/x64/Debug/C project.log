@@ -1,0 +1,16 @@
+﻿  file_project.c
+C:\Users\이영주\Desktop\C project\C project\file_project.c(22,12): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\이영주\Desktop\C project\C project\file_project.c(38,12): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  m.array.c
+C:\Users\이영주\Desktop\C project\C project\m.array.c(56,6): error C2086: 'int arr[5]': 재정의
+C:\Users\이영주\Desktop\C project\C project\m.array.c(8): message : 'arr' 선언을 참조하십시오.
+C:\Users\이영주\Desktop\C project\C project\m.array.c(58,6): error C2086: 'int arr2[2][5]': 재정의
+C:\Users\이영주\Desktop\C project\C project\m.array.c(12): message : 'arr2' 선언을 참조하십시오.
+C:\Users\이영주\Desktop\C project\C project\m.array.c(63,6): error C2086: 'int arr3[4][2]': 재정의
+C:\Users\이영주\Desktop\C project\C project\m.array.c(19): message : 'arr3' 선언을 참조하십시오.
+C:\Users\이영주\Desktop\C project\C project\m.array.c(80,6): error C2086: 'int arr4[3][3][3]': 재정의
+C:\Users\이영주\Desktop\C project\C project\m.array.c(30): message : 'arr4' 선언을 참조하십시오.
+  struct.c
+C:\Users\이영주\Desktop\C project\C project\struct.c(28,3): error C2371: 'GAME_INFO': 재정의. 기본 형식이 다릅니다.
+C:\Users\이영주\Desktop\C project\C project\struct.c(19): message : 'GAME_INFO' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
