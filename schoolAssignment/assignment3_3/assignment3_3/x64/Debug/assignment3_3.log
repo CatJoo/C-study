@@ -1,0 +1,3 @@
+﻿  assignment3_3.c
+C:\Users\이영주\Desktop\CAU\3-1\기초 컴퓨터 프로그래밍\기초컴퓨터프로그래밍\assignment3_3\assignment3_3\assignment3_3.c(14,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  assignment3_3.vcxproj -> C:\Users\이영주\Desktop\CAU\3-1\기초 컴퓨터 프로그래밍\기초컴퓨터프로그래밍\assignment3_3\x64\Debug\assignment3_3.exe
