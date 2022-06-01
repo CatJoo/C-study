@@ -1,0 +1,4 @@
+﻿  assignment6.2.c
+C:\Users\이영주\Desktop\C\schoolAssignment\assignment6.2\assignment6.2\assignment6.2.c(55,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이영주\Desktop\C\schoolAssignment\assignment6.2\assignment6.2\assignment6.2.c(56,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  assignment6.2.vcxproj -> C:\Users\이영주\Desktop\C\schoolAssignment\assignment6.2\x64\Debug\assignment6.2.exe
